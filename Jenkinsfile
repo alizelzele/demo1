@@ -1,0 +1,3 @@
+javaPipeline {
+    version = '11'
+}
